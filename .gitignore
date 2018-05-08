@@ -1,0 +1,5 @@
+data
+node_modules
+stanford-ner
+stanford-corenlp
+.ipynb_checkpoints
