@@ -3,3 +3,4 @@ node_modules
 stanford-ner
 stanford-corenlp
 .ipynb_checkpoints
+GoogleNews-vectors-negative300.bin.gz
